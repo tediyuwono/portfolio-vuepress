@@ -55,5 +55,3 @@ fields:
     default: ''
   hidden: false
   default: ''
-pages:
-- portfolio/config.json
